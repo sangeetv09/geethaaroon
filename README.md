@@ -20,6 +20,19 @@
 ## Linux
 
 [How DNS Domain Name Server works ?](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_dns-domain-name-server-activity-7041730961138479104-IoBX?utm_source=share&utm_medium=member_desktop)
+  
+## ROLE: # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 member
+ 
+<P>
+I am part of 𝐂𝐥𝐨𝐮𝐝𝐧𝐋𝐨𝐮𝐝 𝐓𝐞𝐜𝐡 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Core team.
+
+The CloudnLoud Tech Community is a non-profit open source tech community, volunteer-run events presenting by members of the CloudnLoud Community.
+
+The goal of our community is to bring together companies, leaders and professionals from around the world to share ideas, socialize and work together on advancing the present and future success of the project. We are part of this for good cause to save millions of Cancer children.
+
+At CloudnLoud Tech community, we are organizing free tech conferences, technical trainings and technical discussions on various IT technologies & open source tools.
+
+</p>
 
 <div id="header" align="center">
   
