@@ -23,6 +23,10 @@
   
 [Secure Socket Layer (SSL)](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_secure-socket-layer-ssl-certificate-activity-7044299302495555584-GIhh?utm_source=share&utm_medium=member_desktop)
   
+## AWS
+  
+[Load Balancer](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_load-balancer-activity-7045441374665510912-mZRs?utm_source=share&utm_medium=member_desktop)
+  
 ## ROLE: # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 member
  
 <P>
