@@ -24,6 +24,8 @@
 [Secure Socket Layer (SSL)](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_secure-socket-layer-ssl-certificate-activity-7044299302495555584-GIhh?utm_source=share&utm_medium=member_desktop)
   
 ## AWS
+
+[Auto Scaling to scale Amazon Elastic Compute Cloud (EC2)](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_auto-scaling-in-aws-activity-7049644281770250240-LJcW?utm_source=share&utm_medium=member_desktop)
   
 [Load Balancer](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_load-balancer-activity-7045441374665510912-mZRs?utm_source=share&utm_medium=member_desktop)
 
