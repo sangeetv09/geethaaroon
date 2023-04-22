@@ -30,6 +30,8 @@
 [Load Balancer](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_load-balancer-activity-7045441374665510912-mZRs?utm_source=share&utm_medium=member_desktop)
 
 [Multi-Factor Authentication (MFA)](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_multi-factor-authentication-activity-7048877511929200640-mCrk?utm_source=share&utm_medium=member_desktop)
+
+[AWS Lambda](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_steps-to-create-aws-lambda-activity-7051080097994342400-_Y_t?utm_source=share&utm_medium=member_desktop)
   
 ## ROLE: # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Leader
  
