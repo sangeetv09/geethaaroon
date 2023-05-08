@@ -36,6 +36,8 @@
 [VPC using NAT Instance](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_vpc-virtual-private-cloud-activity-7059567098938720257-Kh08?utm_source=share&utm_medium=member_desktop)
 
 [VPC using NAT Gateway](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_vpc-with-nat-gateway-activity-7060430845555183616-czcW?utm_source=share&utm_medium=member_desktop)
+
+[VPC using TWO DIFFERENT SUBNETS](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_vpc-using-two-different-subnets-activity-7061000359795720192-hmD6?utm_source=share&utm_medium=member_desktop)
   
 ## ROLE: # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Leader
  
