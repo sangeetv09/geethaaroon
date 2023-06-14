@@ -46,6 +46,8 @@
   [Simple Notification Service (SNS)](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_amazon-simple-notification-service-sns-activity-7065527406110912512--Gq7?utm_source=share&utm_medium=member_desktop)
   
 ## Ansible
+
+[Lab Setup In AWS](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_how-to-create-ansible-lab-in-aws-account-activity-7074705254352637952-BCQZ?utm_source=share&utm_medium=member_desktop)
   
 ## ROLE: # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Leader
  
