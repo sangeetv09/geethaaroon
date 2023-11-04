@@ -55,6 +55,10 @@
 
 [Tags in Ansible](https://www.linkedin.com/posts/sangeetv_tags-in-ansible-playbooks-activity-7109876857726017536-b9fu?utm_source=share&utm_medium=member_desktop)
 
+[Roles in Ansible](https://www.linkedin.com/posts/sangeetv_amazonwebservices-awscommunitymenacloudnloudtechcommunity-activity-7125354215505350657-xFFZ?utm_source=share&utm_medium=member_desktop)
+
+[Patching Using Ansible Roles](https://www.linkedin.com/posts/sangeetv_patching-using-roles-in-ansible-playbook-activity-7126057311525040129-CcmF?utm_source=share&utm_medium=member_desktop)
+
 
   
 ## ROLE: # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Leader
