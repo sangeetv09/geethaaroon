@@ -59,6 +59,8 @@
 
 [Patching Using Ansible Roles](https://www.linkedin.com/posts/sangeetv_patching-using-roles-in-ansible-playbook-activity-7126057311525040129-CcmF?utm_source=share&utm_medium=member_desktop)
 
+[Firewall Using Ansible Roles](https://www.linkedin.com/posts/sangeetv_firewall-using-roles-in-ansible-activity-7127889586730516480-r8mm?utm_source=share&utm_medium=member_desktop)
+
 
   
 ## ROLE: # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Leader
