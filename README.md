@@ -65,6 +65,10 @@
 
 [Docker for Beginners](https://www.linkedin.com/posts/sangeetv_docker-containers-for-beginners-activity-7132987760113569793-_Zfp?utm_source=share&utm_medium=member_desktop)
 
+[Docker Container Architecture](https://www.linkedin.com/posts/sangeetv_docker-architecture-activity-7133339104464797696-JHPq?utm_source=share&utm_medium=member_desktop)
+
+[Docker Lifecycle Management](https://www.linkedin.com/posts/sangeetv_docker-container-lifecycle-management-activity-7135158759122767872-gtf3?utm_source=share&utm_medium=member_desktop)
+
 
   
 ## ROLE: # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Leader
