@@ -19,31 +19,32 @@
 
 ## Linux
 
-[How DNS Domain Name Server works ?](https://www.linkedin.com/posts/sangeetv_dns-domain-name-server-activity-7041730961138479104-xhol?utm_source=share&utm_medium=member_desktop)
+[How DNS Domain Name Server works ?](https://www.linkedin.com/posts/sangeetv09_dns-domain-name-server-activity-7041730961138479104-z4WB?utm_source=share&utm_medium=member_desktop)
   
-[Secure Socket Layer (SSL)](https://www.linkedin.com/posts/sangeetv_secure-socket-layer-ssl-certificate-activity-7044299302495555584-0Y2p?utm_source=share&utm_medium=member_desktop)
-  
+[Secure Socket Layer (SSL)](https://www.linkedin.com/posts/sangeetv09_secure-socket-layer-ssl-certificate-activity-7044299302495555584-2heR?utm_source=share&utm_medium=member_desktop)
+
+ 
 ## AWS
   
-[Elastic Compute Cloud (EC2)](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_how-to-create-an-ec2-instance-activity-7067471028381237248-7Cbp?utm_source=share&utm_medium=member_desktop)
+[Elastic Compute Cloud (EC2)](https://www.linkedin.com/posts/sangeetv09_how-to-create-an-ec2-instance-activity-7067471028381237248-_61C?utm_source=share&utm_medium=member_desktop)
 
-[Auto Scaling to scale Amazon Elastic Compute Cloud (EC2)](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_auto-scaling-in-aws-activity-7049644281770250240-LJcW?utm_source=share&utm_medium=member_desktop)
+[Auto Scaling to scale Amazon Elastic Compute Cloud (EC2)](https://www.linkedin.com/posts/sangeetv09_auto-scaling-in-aws-activity-7049644281770250240-9Asz?utm_source=share&utm_medium=member_desktop)
   
-[Load Balancer](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_load-balancer-activity-7045441374665510912-mZRs?utm_source=share&utm_medium=member_desktop)
+[Load Balancer](https://www.linkedin.com/posts/sangeetv09_load-balancer-activity-7045441374665510912-r61D?utm_source=share&utm_medium=member_desktop)
 
-[Multi-Factor Authentication (MFA)](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_multi-factor-authentication-activity-7048877511929200640-mCrk?utm_source=share&utm_medium=member_desktop)
+[Multi-Factor Authentication (MFA)](https://www.linkedin.com/posts/sangeetv09_multi-factor-authentication-activity-7048877511929200640-KsP-?utm_source=share&utm_medium=member_desktop)
 
-[AWS Lambda](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_steps-to-create-aws-lambda-activity-7051080097994342400-_Y_t?utm_source=share&utm_medium=member_desktop)
+[AWS Lambda](https://www.linkedin.com/posts/sangeetv09_steps-to-create-aws-lambda-activity-7051080097994342400-vel2?utm_source=share&utm_medium=member_desktop)
 
-[VPC using NAT Instance](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_vpc-virtual-private-cloud-activity-7059567098938720257-Kh08?utm_source=share&utm_medium=member_desktop)
+[VPC using NAT Instance](https://www.linkedin.com/posts/sangeetv09_vpc-virtual-private-cloud-activity-7059567098938720257-l7eG?utm_source=share&utm_medium=member_desktop)
 
-[VPC using NAT Gateway](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_vpc-with-nat-gateway-activity-7060430845555183616-czcW?utm_source=share&utm_medium=member_desktop)
+[VPC using NAT Gateway](https://www.linkedin.com/posts/sangeetv09_vpc-with-nat-gateway-activity-7060430845555183616-sTEj?utm_source=share&utm_medium=member_desktop)
 
-[VPC using TWO DIFFERENT SUBNETS](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_vpc-using-two-different-subnets-activity-7061000359795720192-hmD6?utm_source=share&utm_medium=member_desktop)
+[VPC using TWO DIFFERENT SUBNETS](https://www.linkedin.com/posts/sangeetv09_vpc-using-two-different-subnets-activity-7061000359795720192-V1aH?utm_source=share&utm_medium=member_desktop)
   
- [VPC Peering](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_how-to-set-up-aws-vpc-peering-activity-7063450212723277824-erjs?utm_source=share&utm_medium=member_desktop)
+ [VPC Peering](https://www.linkedin.com/posts/sangeetv09_how-to-set-up-aws-vpc-peering-activity-7063450212723277824-DDJz?utm_source=share&utm_medium=member_desktop)
   
-  [Simple Notification Service (SNS)](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_amazon-simple-notification-service-sns-activity-7065527406110912512--Gq7?utm_source=share&utm_medium=member_desktop)
+  [Simple Notification Service (SNS)](https://www.linkedin.com/posts/sangeetv09_amazon-simple-notification-service-sns-activity-7065527406110912512-Cr-N?utm_source=share&utm_medium=member_desktop)
   
 ## Ansible
 
