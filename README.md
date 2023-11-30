@@ -48,19 +48,19 @@
   
 ## Ansible
 
-[Lab Setup In AWS](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_how-to-create-ansible-lab-in-aws-account-activity-7074705254352637952-BCQZ?utm_source=share&utm_medium=member_desktop)
+[Lab Setup In AWS](https://www.linkedin.com/posts/sangeetv09_how-to-create-ansible-lab-in-aws-account-activity-7074705254352637952-kvOS?utm_source=share&utm_medium=member_desktop)
 
-[Handler in Ansible](https://www.linkedin.com/posts/sangeetv_how-to-use-handlers-in-ansible-activity-7076944338898849792-istq?utm_source=share&utm_medium=member_desktop)
+[Handler in Ansible](https://www.linkedin.com/posts/sangeetv09_how-to-use-handlers-in-ansible-activity-7076944338898849792-DZ89?utm_source=share&utm_medium=member_desktop)
 
-[Installing Package through Ansible Playbook](https://www.linkedin.com/posts/sangeetv_how-to-install-a-package-using-ansible-activity-7104766539756703745-2WFS?utm_source=share&utm_medium=member_desktop)
+[Installing Package through Ansible Playbook](https://www.linkedin.com/posts/sangeetv09_how-to-install-a-package-using-ansible-activity-7104766539756703745--Tmh?utm_source=share&utm_medium=member_desktop)
 
-[Tags in Ansible](https://www.linkedin.com/posts/sangeetv_tags-in-ansible-playbooks-activity-7109876857726017536-b9fu?utm_source=share&utm_medium=member_desktop)
+[Tags in Ansible](https://www.linkedin.com/posts/sangeetv09_tags-in-ansible-playbooks-activity-7109876857726017536-GS8v?utm_source=share&utm_medium=member_desktop)
 
-[Roles in Ansible](https://www.linkedin.com/posts/sangeetv_amazonwebservices-awscommunitymenacloudnloudtechcommunity-activity-7125354215505350657-xFFZ?utm_source=share&utm_medium=member_desktop)
+[Roles in Ansible](https://www.linkedin.com/posts/sangeetv09_amazonwebservices-awscommunitymenacloudnloudtechcommunity-activity-7125354215505350657-HCg8?utm_source=share&utm_medium=member_desktop)
 
-[Patching Using Ansible Roles](https://www.linkedin.com/posts/sangeetv_patching-using-roles-in-ansible-playbook-activity-7126057311525040129-CcmF?utm_source=share&utm_medium=member_desktop)
+[Patching Using Ansible Roles](https://www.linkedin.com/posts/sangeetv09_patching-using-roles-in-ansible-playbook-activity-7126057311525040129-oXhZ?utm_source=share&utm_medium=member_desktop)
 
-[Firewall Using Ansible Roles](https://www.linkedin.com/posts/sangeetv_firewall-using-roles-in-ansible-activity-7127889586730516480-r8mm?utm_source=share&utm_medium=member_desktop)
+[Firewall Using Ansible Roles](https://www.linkedin.com/posts/sangeetv09_firewall-using-roles-in-ansible-activity-7127889586730516480-lBEr?utm_source=share&utm_medium=member_desktop)
 
 ## Docker Containers
 
