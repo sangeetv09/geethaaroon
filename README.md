@@ -70,6 +70,9 @@
 
 [Docker Lifecycle Management](https://www.linkedin.com/posts/sangeetv09_docker-container-lifecycle-management-activity-7135158759122767872-3GcN?utm_source=share&utm_medium=member_desktop)
 
+[Install Docker Using AWS EC2 instance](https://medium.com/@sangeetv09/how-to-install-docker-using-aws-ec2-instance-ed495e5dd7a3)
+
+[Basic Commands Used in Dockerfile](https://medium.com/@sangeetv09/overview-of-dockerfile-e50059316dc9)
 
   
 ## ROLE: # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Leader
