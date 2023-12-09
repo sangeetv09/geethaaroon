@@ -62,6 +62,8 @@
 
 [Firewall Using Ansible Roles](https://www.linkedin.com/posts/sangeetv09_firewall-using-roles-in-ansible-activity-7127889586730516480-lBEr?utm_source=share&utm_medium=member_desktop)
 
+[UseCase1 : AWS EC2 Deployment Using Ansible Playbook]
+
 ## Docker Containers
 
 [Docker for Beginners](https://www.linkedin.com/posts/sangeetv09_docker-containers-for-beginners-activity-7132987760113569793-657y?utm_source=share&utm_medium=member_desktop)
