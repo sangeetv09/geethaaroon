@@ -64,6 +64,8 @@
 
 [UseCase1 AWS EC2 Deployment Using Ansible Playbook](https://medium.com/@sangeetv09/aws-ec2-instance-deployment-using-ansible-playbook-ccf56d81b775)
 
+[UseCase2 Patching]
+
 ## Docker Containers
 
 [Docker for Beginners](https://www.linkedin.com/posts/sangeetv09_docker-containers-for-beginners-activity-7132987760113569793-657y?utm_source=share&utm_medium=member_desktop)
