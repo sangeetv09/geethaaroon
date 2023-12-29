@@ -64,7 +64,7 @@
 
 [UseCase1 AWS EC2 Deployment Using Ansible Playbook](https://medium.com/@sangeetv09/aws-ec2-instance-deployment-using-ansible-playbook-ccf56d81b775)
 
-[UseCase2: Patching]
+[UseCase2: Patching](https://medium.com/@sangeetv09/linux-os-patching-using-ansible-playbook-0927e7e92630)
 
 ## Docker Containers
 
