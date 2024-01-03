@@ -66,6 +66,8 @@
 
 [UseCase2 Patching Using Ansible Playbook](https://medium.com/@sangeetv09/linux-os-patching-using-ansible-playbook-0927e7e92630)
 
+[UseCase3 File Manipulation](https://medium.com/@sangeetv09/file-manipulation-using-ansible-playbook-b678f01d847e)
+
 ## Docker Containers
 
 [Docker for Beginners](https://www.linkedin.com/posts/sangeetv09_docker-containers-for-beginners-activity-7132987760113569793-657y?utm_source=share&utm_medium=member_desktop)
