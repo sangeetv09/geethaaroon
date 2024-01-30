@@ -82,7 +82,7 @@
 
 ## Jenkins
 
-[UseCase 1]()
+[UseCase 1](https://medium.com/@sangeetv09/how-to-create-a-jenkinsfile-7a7eb1a5d834)
 
   
 ## ROLE: # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Leader
