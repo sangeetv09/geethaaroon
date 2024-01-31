@@ -84,7 +84,7 @@
 
 [UseCase1 Single Stage Jenkins Pipeline Job](https://medium.com/@sangeetv09/how-to-create-a-jenkinsfile-7a7eb1a5d834)
 
-[UseCase2 Multiple Stage Jenkins Pipeline Job]()
+[UseCase2 Multiple Stage Jenkins Pipeline Job](https://medium.com/@sangeetv09/how-to-create-simple-multistage-jenkins-pipeline-job-7a5d6113e429)
 
   
 ## ROLE: # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Leader
