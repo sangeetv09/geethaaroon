@@ -86,6 +86,8 @@
 
 [UseCase2 Multiple Stage Jenkins Pipeline Job](https://medium.com/@sangeetv09/how-to-create-simple-multistage-jenkins-pipeline-job-7a5d6113e429)
 
+[UseCase3 Intergrating GitHub and Jenkins]()
+
   
 ## ROLE: # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Leader
  
