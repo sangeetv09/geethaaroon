@@ -88,6 +88,8 @@
 
 [UseCase3 Intergrating GitHub and Jenkins]()
 
+[UseCase4 Multiple Stage Jenkins Pipeline Job from GitHub]()
+
   
 ## ROLE: # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Leader
  
