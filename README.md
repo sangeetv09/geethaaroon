@@ -86,7 +86,7 @@
 
 [UseCase2 Multiple Stage Jenkins Pipeline Job](https://medium.com/@sangeetv09/how-to-create-simple-multistage-jenkins-pipeline-job-7a5d6113e429)
 
-[UseCase3 Intergrating GitHub and Jenkins]()
+[UseCase3 Intergrating GitHub and Jenkins](https://medium.com/@sangeetv09/how-to-integrate-git-with-jenkins-dcc63f5cbb13)
 
 [UseCase4 Multiple Stage Jenkins Pipeline Job from GitHub]()
 
