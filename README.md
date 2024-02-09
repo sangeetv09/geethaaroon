@@ -88,7 +88,7 @@
 
 [UseCase3 Intergrating GitHub and Jenkins](https://medium.com/@sangeetv09/how-to-integrate-git-with-jenkins-dcc63f5cbb13)
 
-[UseCase4 Multiple Stage Jenkins Pipeline Job from GitHub]()
+[UseCase4 Create a Jenkins Pipeline Using a Jenkinsfile](https://medium.com/@sangeetv09/create-a-jenkins-pipeline-using-a-jenkinsfile-f67b11e3f0b3)
 
   
 ## ROLE: # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Leader
