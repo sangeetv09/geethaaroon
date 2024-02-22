@@ -90,6 +90,8 @@
 
 [UseCase4 Create a Jenkins Pipeline Using a Jenkinsfile](https://medium.com/@sangeetv09/create-a-jenkins-pipeline-using-a-jenkinsfile-f67b11e3f0b3)
 
+[UseCase5 WebHook Method to trigger Jenkins Pipeline](https://medium.com/@sangeetv09/how-to-configure-webhook-in-github-and-jenkins-for-automatic-trigger-with-cicd-pipeline-34133e9de0ea)
+
   
 ## ROLE: # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Leader
  
