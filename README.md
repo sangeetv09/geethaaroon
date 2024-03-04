@@ -17,6 +17,9 @@
    
 # Technical Contributions:
 
+## Shell Scripting
+[UseCase 1: ]()
+
 ## Linux
 
 [How DNS Domain Name Server works ?](https://www.linkedin.com/posts/sangeetv09_dns-domain-name-server-activity-7041730961138479104-z4WB?utm_source=share&utm_medium=member_desktop)
