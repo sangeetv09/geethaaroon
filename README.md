@@ -46,6 +46,8 @@
 [VPC using TWO DIFFERENT SUBNETS](https://www.linkedin.com/posts/sangeetv09_vpc-using-two-different-subnets-activity-7061000359795720192-V1aH?utm_source=share&utm_medium=member_desktop)
   
  [VPC Peering](https://www.linkedin.com/posts/sangeetv09_how-to-set-up-aws-vpc-peering-activity-7063450212723277824-DDJz?utm_source=share&utm_medium=member_desktop)
+
+ [CloudWatch](https://medium.com/@sangeetv09/what-is-cloudwatch-agent-in-aws-8570ec248e4d)
   
   [Simple Notification Service (SNS)](https://www.linkedin.com/posts/sangeetv09_amazon-simple-notification-service-sns-activity-7065527406110912512-Cr-N?utm_source=share&utm_medium=member_desktop)
   
